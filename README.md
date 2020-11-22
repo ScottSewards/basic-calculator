@@ -1,2 +1,2 @@
-# java-calculator
-Calculator is a Java program I made for a university assignment. The calculator class creates a JFrame to show a user interface. Users can input any number from 0 to 9, add a decimal place, delete a character and perform basic arithemtic operations (divide, multiply, add and subtract).
+# Basic Calculator
+A basic calculator written in Java. It was made for a university assignment. The Calculator class uses a JFrame to show a GUI. Users can input numbers between 0 and 9, add a decimal point, delete a character, and perform basic arithmetic operations.
